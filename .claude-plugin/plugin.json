@@ -1,0 +1,5 @@
+{
+  "name": "predict_conversion_selftest2",
+  "version": "0.1.0",
+  "description": "Lab-5 自测2:验证带 manifest 的发布物可安装"
+}

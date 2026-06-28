@@ -1,0 +1,19 @@
+{
+  "name": "predict_conversion_selftest2",
+  "owner": {
+    "name": "Parallight Skills",
+    "url": "https://github.com/parallight-skills"
+  },
+  "metadata": {
+    "description": "Lab-5 自测2:验证带 manifest 的发布物可安装"
+  },
+  "plugins": [
+    {
+      "name": "predict_conversion_selftest2",
+      "description": "Lab-5 自测2:验证带 manifest 的发布物可安装",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "ml"
+    }
+  ]
+}
